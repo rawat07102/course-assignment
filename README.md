@@ -1,5 +1,5 @@
 ## Important Info
-- [live site](course-assignment-orcin.vercel.app)
+- [live site](https://course-assignment-orcin.vercel.app/)
 - use "Bob Smith" as login credentials for test student.
 - All mocked data is in mock folder.
 - [Mock Service Worker](https://mswjs.io/) is used for mocking api.
